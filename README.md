@@ -1,7 +1,7 @@
 ## HELLO WORLD
 
- - hello world!
- - my name is chris ha from Republic of KOREA
+ - Hello world!
+ - My name is chris ha from Republic of KOREA
  - I'm learning about data science.
  - Nice to see you~
 
